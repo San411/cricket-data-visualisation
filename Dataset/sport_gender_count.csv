@@ -1,0 +1,67 @@
+sport,sex,count,Gender
+Archery,F,100,Female
+Archery,M,100,Male
+Athletics,F,1208,Female
+Athletics,M,1300,Male
+Badminton,F,88,Female
+Badminton,M,89,Male
+Basketball,F,140,Female
+Basketball,M,141,Male
+Beach Volleyball,F,48,Female
+Beach Volleyball,M,48,Male
+Boxing,F,36,Female
+Boxing,M,247,Male
+Canoeing,F,162,Female
+Canoeing,M,279,Male
+Cycling,F,267,Female
+Cycling,M,400,Male
+Diving,F,89,Female
+Diving,M,89,Male
+Equestrianism,F,131,Female
+Equestrianism,M,224,Male
+Fencing,F,174,Female
+Fencing,M,172,Male
+Football,F,203,Female
+Football,M,270,Male
+Golf,F,60,Female
+Golf,M,60,Male
+Gymnastics,F,383,Female
+Gymnastics,M,478,Male
+Handball,F,176,Female
+Handball,M,177,Male
+Hockey,F,194,Female
+Hockey,M,196,Male
+Judo,F,152,Female
+Judo,M,237,Male
+Modern Pentathlon,F,36,Female
+Modern Pentathlon,M,36,Male
+Rhythmic Gymnastics,F,96,Female
+Rowing,F,219,Female
+Rowing,M,331,Male
+Rugby Sevens,F,148,Female
+Rugby Sevens,M,151,Male
+Sailing,F,163,Female
+Sailing,M,217,Male
+Shooting,F,214,Female
+Shooting,M,341,Male
+Swimming,F,761,Female
+Swimming,M,807,Male
+Synchronized Swimming,F,118,Female
+Table Tennis,F,118,Female
+Table Tennis,M,118,Male
+Taekwondo,F,64,Female
+Taekwondo,M,62,Male
+Tennis,F,143,Female
+Tennis,M,143,Male
+Trampolining,F,16,Female
+Trampolining,M,16,Male
+Triathlon,F,55,Female
+Triathlon,M,55,Male
+Volleyball,F,142,Female
+Volleyball,M,141,Male
+Water Polo,F,104,Female
+Water Polo,M,154,Male
+Weightlifting,F,103,Female
+Weightlifting,M,152,Male
+Wrestling,F,112,Female
+Wrestling,M,234,Male
